@@ -46,6 +46,7 @@ class ViewController: UIViewController {
     
         view.addConstraints(horizontalConstraints)
         view.addConstraints(verticalConstraints)
+        
     }
     
     override func didReceiveMemoryWarning() {
